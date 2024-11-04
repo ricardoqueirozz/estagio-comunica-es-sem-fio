@@ -6,7 +6,7 @@ Repositório do estágio docente requisito para bolsistas de pós-graduação, r
 **Discente da Disciplina:** Fred Sizenando Rossiter Pinheiro<br>
 **Orientador:** Vicente Angelo de Sousa Junior<br>
 
-## **Tutorial de Instalação do LINKPlanner**
+## **Tutorial de Instalação e Uso do LINKPlanner**
 
 [Visualização pelo GitHub](https://github.com/ricardoqueirozz/estagio-comunicacoes-sem-fio/blob/main/tutorial/tutorial_LINKPlanner.ipynb).<br>
 [Visualização pelo nbviewer](https://nbviewer.org/github/ricardoqueirozz/estagio-comunicacoes-sem-fio/blob/main/tutorial/tutorial_LINKPlanner.ipynb).
