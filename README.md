@@ -2,9 +2,9 @@
 
 Repositório do estágio docente realizado no semestre 2024.2 na disciplina de Comunicações Sem Fio
 
-**Aluno:** Ricardo Queiroz de Farias Henrique Silva
-**Discente da Disciplina:** Fred Sizenando Rossiter Pinheiro
-**Orientador:** Vicente Angelo de Sousa Junior
+**Aluno:** Ricardo Queiroz de Farias Henrique Silva<br>
+**Discente da Disciplina:** Fred Sizenando Rossiter Pinheiro<br>
+**Orientador:** Vicente Angelo de Sousa Junior<br>
 
 ## **Tutorial de Instalação do LINKPlanner**
 
