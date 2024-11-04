@@ -1,6 +1,6 @@
 # **Estágio em Comunicações Sem Fio**
 
-Repositório do estágio docente realizado no semestre 2024.2 na disciplina de Comunicações Sem Fio
+Repositório do estágio docente requisito para bolsistas de pós-graduação, realizado na UFRN em 2024.2, na disciplina DCO1018 - Comunicações Sem Fio.
 
 **Aluno:** Ricardo Queiroz de Farias Henrique Silva<br>
 **Discente da Disciplina:** Fred Sizenando Rossiter Pinheiro<br>
